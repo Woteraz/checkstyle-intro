@@ -18,10 +18,10 @@ public class HelloWorld {
     }
 
     private String getFromOneToTen() {
-        String result="";
+        String result = "";
 
-        for (int i=0; i<10; i++){
-            if(i%2==0)
+        for (int i = 0; i < 10; i++) {
+            if (i % 2 == 0)
              result = result + i + " ";
         }
         return result;
