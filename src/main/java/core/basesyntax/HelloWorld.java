@@ -5,7 +5,7 @@ import core.basesyntax.Model.Dog;
 import java.time.LocalDate;
 import java.util.Objects;
 
-public class Hello_World {
+public class HelloWorld {
 
     private String a;
     private int vARIaBLE;
